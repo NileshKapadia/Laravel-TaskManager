@@ -2,6 +2,8 @@ Laravel Task Management Application
 --------------------------------------
 This is a simple Laravel web application for managing tasks. Users can create, edit, delete, and reorder tasks using drag-and-drop functionality. Tasks can also be associated with projects.
 
+![image](https://github.com/user-attachments/assets/0b3bf942-9a54-471b-b6a9-15c421b26383)
+
 Features
 ---------
 Create, edit, and delete tasks.
@@ -31,7 +33,7 @@ cd LARAVEL_TaskManager
 Step 2 : Install PHP Dependencies
 composer install
 
-set 3: Set Up the Environment File
+Step 3: Set Up the Environment File
 
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
